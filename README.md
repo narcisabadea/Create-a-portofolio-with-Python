@@ -1,5 +1,7 @@
 # Portofolio made with Python
 
+Portfolio project made with `Python` and `Flask` using the UI as a template from [`Mashup Template`](http://www.mashup-template.com/)
+
 ## Development
 
 To run the project on your machine do the following:
@@ -9,7 +11,3 @@ To run the project on your machine do the following:
 - now run `flask run`
 
 The server is running on: http://127.0.0.1:5000
-
-Since this is a Python project, the UI is a template from [`Mashup Template`](http://www.mashup-template.com/)
-
-
