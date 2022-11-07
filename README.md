@@ -11,3 +11,11 @@ To run the project on your machine do the following:
 - now run `flask run`
 
 The server is running on: http://127.0.0.1:5000
+
+
+## Screenshots:
+
+<img src=".assets/1.png">
+<img src=".assets/2.png">
+<img src=".assets/3.png">
+<img src=".assets/4.png">
