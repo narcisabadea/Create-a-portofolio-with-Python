@@ -1,6 +1,6 @@
-# Portofolio made with Python
+# Create a portofolio with Python
 
-Portfolio project made with `Python` and `Flask` using the UI as a template from [`Mashup Template`](http://www.mashup-template.com/)
+Project made with `Python` and `Flask` using the UI as a template from [`Mashup Template`](http://www.mashup-template.com/) and following the Udemy [`Complete Python Developer in 2023: Zero to Mastery`](https://www.udemy.com/course/complete-python-developer-zero-to-mastery) course.
 
 ## Development
 
